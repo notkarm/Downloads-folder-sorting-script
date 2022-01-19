@@ -1,14 +1,12 @@
 # Downloads-folder-sorting-script
 A simple script that sorts your download folder based on the extensions of the files that are inside the downloads folder
 
-████████████████████████████████████████████████████████████████████████████████████████████████
-█▄─▄▄▀█─▄▄─█▄─█▀▀▀█─▄█▄─▀█▄─▄█▄─▄███─▄▄─██▀▄─██▄─▄▄▀█─▄▄▄▄███▄─▄▄─█─▄▄─█▄─▄███▄─▄▄▀█▄─▄▄─█▄─▄▄▀█
-██─██─█─██─██─█─█─█─███─█▄▀─███─██▀█─██─██─▀─███─██─█▄▄▄▄─████─▄███─██─██─██▀██─██─██─▄█▀██─▄─▄█
-▀▄▄▄▄▀▀▄▄▄▄▀▀▄▄▄▀▄▄▄▀▀▄▄▄▀▀▄▄▀▄▄▄▄▄▀▄▄▄▄▀▄▄▀▄▄▀▄▄▄▄▀▀▄▄▄▄▄▀▀▀▄▄▄▀▀▀▄▄▄▄▀▄▄▄▄▄▀▄▄▄▄▀▀▄▄▄▄▄▀▄▄▀▄▄▀
-████████████████████████████████████████▀█
-█─▄▄▄▄█─▄▄─█▄─▄▄▀█─▄─▄─█▄─▄█▄─▀█▄─▄█─▄▄▄▄█
-█▄▄▄▄─█─██─██─▄─▄███─████─███─█▄▀─██─██▄─█
-▀▄▄▄▄▄▀▄▄▄▄▀▄▄▀▄▄▀▀▄▄▄▀▀▄▄▄▀▄▄▄▀▀▄▄▀▄▄▄▄▄▀
+
+┏━━┓╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┏┳━┓┏━┓╋╋╋╋┏┓╋╋╋╋┏━┓╋╋╋┏┓┏┓
+┗┓┓┣━┳┳┳┳━┳┳┓┏━┳━┓┏┛┃━┫┃━╋━┳┓┏┛┣━┳┳┓┃━╋━┳┳┫┗╋╋━┳┳━┓
+┏┻┛┃╋┃┃┃┃┃┃┃┗┫╋┃╋┗┫╋┣━┃┃┏┫╋┃┗┫╋┃┻┫┏┛┣━┃╋┃┏┫┏┫┃┃┃┃╋┃
+┗━━┻━┻━━┻┻━┻━┻━┻━━┻━┻━┛┗┛┗━┻━┻━┻━┻┛╋┗━┻━┻┛┗━┻┻┻━╋┓┃
+╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋╋┗━┛
 
 This script allows you to simply sort your downloads folder by running this script. All the steps you need to take in order to be able to run this correctly and have it functioning are:
 1) Make folders of these exact names (or if you are lazy and use windows, you can use the script I provided to make these folders for you):
