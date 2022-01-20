@@ -1097,7 +1097,7 @@ for file in rpmfiles:
 
 # Search files with .tar.gz extension in source directory
 pattern = "\*.tar.gz"
-tar.gzfiles = glob.glob(src_folder + pattern)
+targzfiles = glob.glob(src_folder + pattern)
 #Move all files with a tar.gz extension
 for file in tar.gzfiles:
     file_name = os.path.basename(file)
